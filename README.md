@@ -11,4 +11,8 @@ Implement and train a convolution neural network from scratch in Python for the 
 
 **Problem 3: Implementation of Deep CNN for CIFAR 10**
 
-Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. The convolution network should use dropout, trained with RMSprop or ADAM, and data augmentation. Also, compare dropout test accuracy using the heuristic prediction rule and Monte Carlo simulation. 
+Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. The convolution network should use dropout, trained with RMSprop or ADAM, and data augmentation. Also, compare dropout test accuracy using the heuristic prediction rule and Monte Carlo simulation.
+
+**Problem 4: Implementation of Deep Resnet on CIFAR 100**
+
+Implement a deep residual neural network for CIFAR100 using your own Resnet and pretrained Resnet implemented in Pytorch. Target test set accuracy: 60% for own Resnet implementation and 70% for pretrained Resnet implementation.
