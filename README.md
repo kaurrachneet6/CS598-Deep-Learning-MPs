@@ -16,3 +16,7 @@ Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. 
 **Problem 4: Implementation of Deep Resnet on CIFAR 100**
 
 Implement a deep residual neural network for CIFAR100 using your own Resnet and pretrained Resnet implemented in Pytorch. Target test set accuracy: 60% for own Resnet implementation and 70% for pretrained Resnet implementation.
+
+**Problem 5: Image Similarity with Deep Ranking on Tiny Imagenet**
+
+**Problem 6: Implementation of GAN with Wasserstien Gradient Penalty (Wasserstien GAN) and Auxilliary Classifier (ACGAN) on CIFAR 10**
