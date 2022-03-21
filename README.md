@@ -39,4 +39,4 @@ The assignment starts off with how to preprocess the dataset into a more appropr
 
 In this project, a single joint model is constructed to generate a target sequence of words that describes the input image. The idea is similar to encoder-decoder RNN used in translating sentences except that a Convolutional Neural Network is used in place of the encoder RNN. CNN, which takes image as an input, is trained for an image classification task to generate a compact representation of the original image. This representation is then passed as an input to a decoder RNN that generates the sentences.
 
-**Code available on github repository: https://github.com/kaurrachneet6/ShowAndTell-neural-captioning**
+**Code for the final project is available on the github repository: https://github.com/kaurrachneet6/ShowAndTell-neural-captioning**
