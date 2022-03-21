@@ -35,3 +35,5 @@ The assignment starts off with how to preprocess the dataset into a more appropr
 * Part two will start incoporating **temporal information by using LSTM** layers.
 * Part three will show how to **train a language model** and how doing this as a first step can sometimes improve results for other tasks
 
+**Final Project: Show and Tell Neural Captioning**
+Code available on https://github.com/kaurrachneet6/ShowAndTell-neural-captioning
