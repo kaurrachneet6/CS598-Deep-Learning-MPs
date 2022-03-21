@@ -1,3 +1,5 @@
+**Problem 5: Image Similarity with Deep Ranking on Tiny Imagenet**
+
 The goal of this project is to introduce you to the computer vision task of image similarity. Like
 most tasks in this field, it’s been aided by the ability of deep networks to extract image features.
 
